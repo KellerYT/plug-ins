@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KellerYT/plug-ins
+build-by-default: true
+branches:
+- main
+projects: []
+...
